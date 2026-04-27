@@ -3,7 +3,7 @@
 A production-ready multi-agent AI system that analyzes any news topic using LangGraph orchestration, FAISS RAG, and Groq LLM. Unlike simple RAG pipelines, AgentIQ uses a decision-making agent that intelligently routes queries across multiple specialized tools.
 
 ## 🎥 Demo
-▶ Watch AgentIQ in action — [LinkedIn Demo](#)
+▶ Watch AgentIQ in action — [https://www.linkedin.com/posts/rida-zahid-382730309_ai-machinelearning-langgraph-ugcPost-7454222355754831872-inYO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6YmRIBaC1HcMJou3ai5oJl0Ay8NYbm7-I]
 
 ## 🧠 How It Works
 User Query
